@@ -1,0 +1,36 @@
+1530705948.365740 client started (14543): version 2.7, socket /data/data/com.termux/files/usr/tmp/tmux-10247/default, protocol 8
+1530705948.365823 on Linux 3.10.49 #1 SMP PREEMPT Tue Sep 8 13:35:43 CST 2015; libevent 2.1.8-beta (poll)
+1530705948.365889 socket is /data/data/com.termux/files/usr/tmp/tmux-10247/default
+1530705948.365954 trying connect
+1530705948.368871 add peer 0xb6d04008: 6 (0x0)
+1530705948.369146 sending message 100 to peer 0xb6d04008 (4 bytes)
+1530705948.369213 sending message 101 to peer 0xb6d04008 (7 bytes)
+1530705948.369255 sending message 102 to peer 0xb6d04008 (11 bytes)
+1530705948.369290 sending message 108 to peer 0xb6d04008 (33 bytes)
+1530705948.369324 sending message 104 to peer 0xb6d04008 (0 bytes)
+1530705948.369357 sending message 107 to peer 0xb6d04008 (4 bytes)
+1530705948.369389 sending message 105 to peer 0xb6d04008 (52 bytes)
+1530705948.369421 sending message 105 to peer 0xb6d04008 (17 bytes)
+1530705948.369452 sending message 105 to peer 0xb6d04008 (44 bytes)
+1530705948.369483 sending message 105 to peer 0xb6d04008 (39 bytes)
+1530705948.369515 sending message 105 to peer 0xb6d04008 (37 bytes)
+1530705948.369546 sending message 105 to peer 0xb6d04008 (38 bytes)
+1530705948.369577 sending message 105 to peer 0xb6d04008 (68 bytes)
+1530705948.369608 sending message 105 to peer 0xb6d04008 (43 bytes)
+1530705948.369639 sending message 105 to peer 0xb6d04008 (47 bytes)
+1530705948.369670 sending message 105 to peer 0xb6d04008 (12 bytes)
+1530705948.369700 sending message 105 to peer 0xb6d04008 (13 bytes)
+1530705948.369731 sending message 105 to peer 0xb6d04008 (8 bytes)
+1530705948.369761 sending message 105 to peer 0xb6d04008 (21 bytes)
+1530705948.369791 sending message 105 to peer 0xb6d04008 (19 bytes)
+1530705948.369822 sending message 105 to peer 0xb6d04008 (42 bytes)
+1530705948.369853 sending message 105 to peer 0xb6d04008 (85 bytes)
+1530705948.369883 sending message 105 to peer 0xb6d04008 (65 bytes)
+1530705948.369914 sending message 105 to peer 0xb6d04008 (43 bytes)
+1530705948.369944 sending message 106 to peer 0xb6d04008 (0 bytes)
+1530705948.369981 sending message 200 to peer 0xb6d04008 (4 bytes)
+1530705948.370009 client loop enter
+1530705948.373913 peer 0xb6d04008 message 211
+1530705948.374006 client_write: sessions should be nested with care, unset $TMUX to force\n
+1530705948.375771 peer 0xb6d04008 message 203
+1530705948.375856 client loop exit
